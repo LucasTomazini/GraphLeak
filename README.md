@@ -1,6 +1,6 @@
-# GraphLeak
+# Introduction
 
-The GraphLeak provides a new dataset to locate and identify leaks in Water Distribution Systems through realistic simulations performed in EPANET-matlab-toolkit. 
+This repository cotains a new dataset to locate and identify leaks in Water Distribution Systems through realistic simulations performed in EPANET-matlab-toolkit. 
 
 GraphLeak consists of simulations in different scenarios and topologies designed under realistic hydraulic parameters where each node represents a measurement
 point. 
@@ -19,9 +19,14 @@ The Mean Absolute Error (MAPE) is used to analyze the error between predictions 
 - [PyTorch](http://pytorch.org)
 - All the libraries in <code>requirements.txt</code>
 
-### Data generation
-
-
-# Dataset Download
+# Raw Data Download
 
 All the contents of GraphLeak are public and can be acessed [here](https://googledrive.com/)
+
+### Data generation
+
+From raw Data, generate the dataset by running:
+
+<pre><code> python3 main.py </pre></code>
+
+
