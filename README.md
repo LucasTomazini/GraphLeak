@@ -30,7 +30,7 @@ From raw Data, generate the dataset by running:
 
 <pre><code> python3 main.py </pre></code>
 
-### configurations
+### Configurations
 
 **Noise** - If you want a Gaussian noise in the data, set noise as True.
 - <code>Noise: True</code>
