@@ -31,14 +31,16 @@ From raw Data, generate the dataset by running:
 
 ### configurations
 
-Noise - If you want standard noise in the data, please set noise as True.
+**Noise** - If you want a Gaussian noise in the data, set noise as True.
 - <code>Noise: True</code>
 
-Noise specification - If there is noise in the data, specify the configuration bellow:
+**Noise specification** - If there is noise in the data, specify the configuration bellow:
 - <code>mu: 0 </code> mean default
 - <code>sigma: 0.1 </code> standard deviation default
-mu, sigma = 0, 0.1 </cod> standard deviation default
-- Nodes Normalization
-- Data Normalization
 
+**Nodes Normalization** - Set True (recommended) to normalize values between nodes.
+- <code>Node_normalization: True</code>
+
+**Data Normalization** - Set True (recommended) to normalize values in the range 0 to 1.
+- <code>Data_normalization: True</code>
 
