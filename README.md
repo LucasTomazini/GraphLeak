@@ -29,4 +29,11 @@ From raw Data, generate the dataset by running:
 
 <pre><code> python3 main.py </pre></code>
 
+### configurations
+
+- Noise
+- Noise specification
+- Nodes Normalization
+- Data Normalization
+
 
