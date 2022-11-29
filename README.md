@@ -50,6 +50,10 @@ From raw Data, generate the dataset by running:
 **Data Normalization** - Set True (recommended) to normalize values in the range 0 to 1.
 - <code>Data_normalization: True</code>
 
+# License
+
+# Authors
+
 # Citation 
 Please cite one of the following papers if you use this code for your researches:
 
