@@ -13,7 +13,6 @@ The Mean Absolute Error (MAPE) is used to analyze the error between predictions 
 
 # PreProcess python file
 
-
 ### Prerequisites
 - Python3
 - [PyTorch](http://pytorch.org)
