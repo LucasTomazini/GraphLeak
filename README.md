@@ -34,8 +34,8 @@ From raw Data, generate the dataset by running:
 
 **Meansurements Content** - You can choose which measure values contain in the dataset
 - <code>Pressure: True or False</code>
-- - <code>Flow: True or False</code>
-- - <code>Volume: True or False</code>
+- <code>Flow: True or False</code>
+- <code>Volume: True or False</code>
 
 **Noise** - If you want a Gaussian noise in the data, set noise as True.
 - <code>Noise: True</code>
