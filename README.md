@@ -6,3 +6,11 @@ GraphLeak consists of simulations in different scenarios and topologies designed
 point. 
 
 ### Evaluation
+
+The results obtained by a Multi-layer Perceptron are evaluated by the ain classification metrics of confusion matrix, such as accuracy, precision, reacall and F1-score.
+
+The Mean Absolute Error (MAPE) is used to analyze the error between predictions and the correct values.
+
+# Dataset Download
+
+All the contents of GraphLeak are public and can be acessed [here](https://googledrive.com/)
