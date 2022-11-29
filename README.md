@@ -31,7 +31,9 @@ From raw Data, generate the dataset by running:
 
 ### configurations
 
-- Noise
+Noise - If you want standard noise in the data, please set noise as True
+- <code>attention: True</code>
+
 - Noise specification
 - Nodes Normalization
 - Data Normalization
