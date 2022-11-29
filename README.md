@@ -11,6 +11,17 @@ The results obtained by a Multi-layer Perceptron are evaluated by the ain classi
 
 The Mean Absolute Error (MAPE) is used to analyze the error between predictions and the correct values.
 
+# PreProcess python file
+
+
+### Prerequisites
+- Python3
+- [PyTorch](http://pytorch.org)
+- All the libraries in <code>requirements.txt</code>
+
+### Data generation
+
+
 # Dataset Download
 
 All the contents of GraphLeak are public and can be acessed [here](https://googledrive.com/)
