@@ -5,6 +5,9 @@ This repository cotains a new dataset to locate and identify leaks in Water Dist
 GraphLeak consists of simulations in different scenarios and topologies designed under realistic hydraulic parameters where each node represents a measurement
 point. 
 
+
+![WDS_topologie](/WDS_top.png)
+
 ### Evaluation
 
 The results obtained by a Multi-layer Perceptron are evaluated by the ain classification metrics of confusion matrix, such as accuracy, precision, reacall and F1-score.
