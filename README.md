@@ -13,16 +13,13 @@ The Mean Absolute Error (MAPE) is used to analyze the error between predictions 
 
 # Raw Data Download
 
-All the contents of GraphLeak are public and can be acessed [here](https://googledrive.com/)
+All the contents of GraphLeak are public and can be acessed [here](https://drive.google.com/drive/folders/1Q_JQO2OZhejQEd0BMdx0UGcRaDo85ENC?usp=share_link)
 
 # PreProcess python file
 
 ### Prerequisites
 - Python3
-- [PyTorch](http://pytorch.org)
 - All the libraries in <code>requirements.txt</code>
-
-
 
 ### Data generation
 
