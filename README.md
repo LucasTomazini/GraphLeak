@@ -53,6 +53,13 @@ From raw Data, generate the dataset by running:
 # License
 
 # Authors
+Lucas Roberto Tomazini;
+Rodrigo Pita Rolle
+Lucas Nunes Monteiro
+Alexandre da Silva Simões
+Esther Luna Colombini
+Eduardo Paciência Godoy
+
 
 # Citation 
 Please cite one of the following papers if you use this code for your researches:
