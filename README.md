@@ -1,10 +1,6 @@
 # Introduction
 
-This repository cotains a new dataset to locate and identify leaks in Water Distribution Systems through realistic simulations performed in EPANET-matlab-toolkit. 
-
-GraphLeak consists of simulations in different scenarios and topologies designed under realistic hydraulic parameters where each node represents a measurement
-point. 
-
+This repository cotains GraphLeak, a carefully developed dataset for locating and identifying leaks in various topologies of water distribution networks. Each node in the dataset corresponds to a sensor where variables such as pressure, flow rate, and volume are measured, and the pipe lengths range from a few meters to hundreds of meters. The simulations are conducted using the EPANET WDN modeling software, and the datasets are exported to CSV (Comma-Separated Values) files.
 
 ![WDS_topologie](/WDS_top.png)
 
