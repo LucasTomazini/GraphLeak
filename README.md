@@ -1,6 +1,23 @@
-# Introduction
+# GraphLeak: A realistic dataset to detect and locate leaks in water distribution networks
 
-This repository cotains GraphLeak, a carefully developed dataset for locating and identifying leaks in various topologies of water distribution networks. Each node in the dataset corresponds to a sensor where variables such as pressure, flow rate, and volume are measured, and the pipe lengths range from a few meters to hundreds of meters. The simulations are conducted using the EPANET WDN modeling software, and the datasets are exported to CSV (Comma-Separated Values) files.
+This repository contains the GraphLeak dataset, a comprehensive dataset designed for locating and identifying leaks in water distribution networks (WDN). The dataset is intended to support researchers in developing and evaluating water leak detection models, particularly those utilizing deep learning techniques.
+
+## Abstract
+
+The management of water resources and the reduction of water losses due to leaks are crucial for human life and industrial processes. To improve the efficiency of leak detection algorithms, a realistic dataset with reliable values is essential. GraphLeak is a dataset created through realistic simulations using the EPANET-MATLAB toolkit. It includes various WDN scenarios and topologies, with each node representing a measurement point within the network.
+
+## Index Terms
+- Dataset
+- Water leak detection
+- Deep learning
+- EPANET simulation
+
+## Dataset Description
+Deep learning algorithms rely on high-quality data for accurate training and evaluation. GraphLeak provides a comprehensive dataset in tabular format, where each column represents a specific variable measured by individual sensors. The dataset includes information on pressure, flow, volume, label, and localization. The simulations are conducted using the EPANET WDN modeling software, and the datasets are exported to CSV (Comma-Separated Values) files.
+
+
+
+
 
 ![WDS_topologie](/WDS_top.png)
 
@@ -61,7 +78,7 @@ Eduardo Paciência Godoy;
 Please cite one of the following papers if you use this code for your researches:
 
 <pre><code>@article{xx,
-  title={xx},
+  title={GraphLeak: A realistic dataset to detect and locate leaks in water distribution networks},
   author={xx},
   journal={xx},
   volume={xx},
